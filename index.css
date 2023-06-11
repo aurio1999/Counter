@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    background-color: yellow;
+    margin: auto;
+    text-align: center;
+    font-family: cursive;
+    border: black solid 5px;
+}
+
+button {
+    background-color: purple;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    height: 40px;
+    width: 120px
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    background:yellow;
+    border: black 5px solid;
+    margin: auto;
+}
+
+body {
+    background-image: url(https://virtualbackgrounds.site/wp-content/uploads/2022/03/south-park-bus-stop-1024x576.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.crafting {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black
+}
